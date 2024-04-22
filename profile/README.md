@@ -1,6 +1,6 @@
 ## OvenInjector
 
-OvenInjector is a modloader and modding SDK for [Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/) that takes a different approach compared to patch modding (`xdelta` modding). Instead of directly replacing the `data.win`, it instead is built-in in the game itself, and let's modders plug in their own stuff. This is still a WIP, however, so a lot of stuff may change!
+OvenInjector is a modloader for [Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/) that takes a different approach compared to patch modding (`xdelta` modding). Instead of directly replacing the `data.win`, it instead is built-in in the game itself, and let's modders plug in their own stuff. This is still a WIP, however, so a lot of stuff may change!
 
 ## Get Started
 
